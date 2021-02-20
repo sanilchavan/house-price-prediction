@@ -1,3 +1,4 @@
 # house-price-prediction
-![Capture](https://user-images.githubusercontent.com/31321149/108603257-fa9c4500-73cc-11eb-8ee8-ed986ad80706.JPG)
+![final](https://user-images.githubusercontent.com/31321149/108604831-4b646b80-73d6-11eb-8fcb-c762b153b6d5.gif)
+
 
